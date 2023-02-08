@@ -21,4 +21,4 @@ Jogo de advinhar o número com a voz. Foi usado a API (WebSpeechAPI)
 💎Layout
 --------
 
-Para visualizar o layout, clique neste <a href="https://jogo-numero-secreto-gray.vercel.app/" target="_blank" rel="noreferrer noopener">LINK</a>
+Para visualizar o layout, clique neste <a href="https://jogo-numero-secreto-gray.vercel.app/" target="_blank">LINK</a>
