@@ -16,7 +16,7 @@ Projeto feito com as seguintes tecnologias:
 💡Projeto
 -------
 
-Jogo de advinhar o número com a voz. Foi usado a API (WebSpeechAPI)
+Adivinhe o Número Secreto é um jogo interativo desenvolvido em JavaScript, onde os jogadores utilizam comandos de voz para adivinhar um número secreto gerado aleatoriamente. O jogo faz uso da Web Speech API para reconhecimento de voz, proporcionando uma experiência única e divertida.
 
 💎Layout
 --------
